@@ -25,11 +25,15 @@ function minimumTwo(a, b)
 // Hi, we are mot interested in this lecture
 
 
-function sleeping(name, sleeper)
+function sleeping(name, sleeper, month)
 {
     console.log("Where is the conflict")
     console.log(`Hello ${name}`);
     console.log(`${sleeper} is sleeping`);
+    if(month === "September")
+    {
+        console.log("Wake me up when semptember ends");
+    }
     return "Goodnight";
 }
 
