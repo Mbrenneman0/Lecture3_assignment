@@ -21,6 +21,8 @@ function minimumTwo(a, b)
 }
 // Hello Collin
 // I am sleeping
+// Hello class
+// Hi, we are mot interested in this lecture
 
 function minimumThree(a, b, c)
 {
