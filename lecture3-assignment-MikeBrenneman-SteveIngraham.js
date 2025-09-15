@@ -21,6 +21,8 @@ function minimumTwo(a, b)
 }
 // Hello Collin
 // I am sleeping
+// Hello class
+// Hi, we are mot interested in this lecture
 
 // this is a comment that I
 // added to practice github stuff
