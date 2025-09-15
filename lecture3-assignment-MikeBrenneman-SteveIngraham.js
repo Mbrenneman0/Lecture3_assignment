@@ -27,7 +27,6 @@ function minimumTwo(a, b)
 
 function sleeping(name, sleeper, month)
 {
-    console.log("Where is the conflict");
     console.log(`Hello ${name}`);
     console.log(`${sleeper} is sleeping`);
     if(month === "September")
