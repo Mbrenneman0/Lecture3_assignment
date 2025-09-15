@@ -27,6 +27,7 @@ function minimumTwo(a, b)
 
 function sleeping(name, sleeper)
 {
+    console.log("Where is the conflict")
     console.log(`Hello ${name}`);
     console.log(`${sleeper} is sleeping`);
     return "Goodnight";
