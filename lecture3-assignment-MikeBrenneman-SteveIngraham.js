@@ -25,9 +25,11 @@ function minimumTwo(a, b)
 // Hi, we are mot interested in this lecture
 
 
-function sleeping()
+function sleeping(name, sleeper)
 {
     console.log("Where is the conflict")
+    console.log(`Hello ${name}`);
+    console.log(`${sleeper} is sleeping`);
     return "Goodnight";
 }
 
