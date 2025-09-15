@@ -24,8 +24,13 @@ function minimumTwo(a, b)
 // Hello class
 // Hi, we are mot interested in this lecture
 
-// this is a comment that I
-// added to practice github stuff
+
+function sleeping()
+{
+    console.log("Hello Collin");
+    console.log("Mr C is sleeping");
+    return "Goodnight";
+}
 
 
 function minimumThree(a, b, c)
