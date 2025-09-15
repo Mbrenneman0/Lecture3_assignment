@@ -20,6 +20,10 @@ function minimumTwo(a, b)
     }
 }
 
+// this is a comment that I
+// added to practice github stuff
+
+
 function minimumThree(a, b, c)
 {
     let minimum = a;
