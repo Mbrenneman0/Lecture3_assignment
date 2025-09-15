@@ -25,10 +25,10 @@ function minimumTwo(a, b)
 // Hi, we are mot interested in this lecture
 
 
-function sleeping()
+function sleeping(name, sleeper)
 {
-    console.log("Hello Collin");
-    console.log("Mr C is sleeping");
+    console.log(`Hello ${name}`);
+    console.log(`${sleeper} is sleeping`);
     return "Goodnight";
 }
 
